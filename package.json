@@ -1,0 +1,25 @@
+{
+    "name": "lonegreen",
+    "displayName": "lone green",
+    "description": "theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+  "galleryBanner": {
+    "color": "#d4ece7",
+    "theme": "dark"
+  },
+    "contributes": {
+        "themes": [
+            {
+                "label": "BetaTheme",
+                "uiTheme": "vs",
+                "path": "./themes/BetaTheme-color-theme.json"
+            }
+        ]
+    }
+}
