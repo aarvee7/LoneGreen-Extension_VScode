@@ -6,6 +6,9 @@
     "engines": {
         "vscode": "^1.64.0"
     },
+    "author": {
+        "name": "rajavel"
+      },
     "categories": [
         "Themes"
     ],
